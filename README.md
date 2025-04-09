@@ -1,7 +1,7 @@
-﻿# Mon projet GestionEntreprise
+1. ﻿# Mon projet GestionEntreprise
 Ce projet Java contient des classes pour apprendre à manipuler les objets, l’héritage et les collections (List) dans un contexte de gestion d’entreprise, avec les classes Personne, Employe et Directeur.
 
-🎯 ## Objectifs du projet
+2.  ## Objectifs du projet
 
 1) Créer des classes telles que Personne, Employe et Directeur
 
@@ -11,13 +11,13 @@ Ce projet Java contient des classes pour apprendre à manipuler les objets, l’
 
  🛠️ Technologies utilisées
 
- ## Technologies
+3.  ## Technologies
 - Java 
 - IDE : Visual Studio Code 
 
 📁 Structure du projet
 
-## Structure des packages
+4. ## Structure des packages
 
 src/
 ├── personne/         → Classe de base Personne
@@ -27,7 +27,7 @@ src/
 
 🚀 Exécution du projet
 
-## Comment exécuter le projet
+5. ## Comment exécuter le projet
 
 1. Cloner le dépôt
 2. Compiler les fichiers :
@@ -36,7 +36,7 @@ src/
 3. Exécuter :
 java -cp bin Main
 
-## À propos
+6. ## À propos
 
 Projet réalisé par Aïcha Benjdir dans le cadre de sa formation Fullstack Web/Mobile avec **10.000 Codeurs**.
 
