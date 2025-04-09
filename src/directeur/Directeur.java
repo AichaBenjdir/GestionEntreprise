@@ -1,4 +1,8 @@
 
+package directeur;
+
+import personne.Personne;  // Importation de la classe Personne
+import employe.Employe;  
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,3 +1,7 @@
+import personne.Personne;
+import employe.Employe;
+import directeur.Directeur;
+
 public class Main {
     public static void main(String[] args) {
 

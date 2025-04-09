@@ -1,3 +1,7 @@
+package employe;
+
+import personne.Personne; 
+
 public class Employe extends Personne {
     private String poste;
     private double salaire;
