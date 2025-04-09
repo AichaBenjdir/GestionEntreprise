@@ -1,5 +1,6 @@
- ﻿# Mon projet GestionEntreprise
-✍️ Ce projet Java contient des classes pour apprendre à manipuler les objets, l’héritage et les collections (List) dans un contexte de gestion d’entreprise, avec les classes Personne, Employe et Directeur.
+ ﻿  ## 🏷️ Mon projet GestionEntreprise
+    
+ Ce projet Java contient des classes pour apprendre à manipuler les objets, l’héritage et les collections (List) dans un contexte de gestion d’entreprise, avec les classes Personne, Employe et Directeur.
 
 ##  🎯  Objectifs du projet
 
